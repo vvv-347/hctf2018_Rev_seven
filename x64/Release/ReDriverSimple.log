@@ -1,0 +1,13 @@
+﻿  Building 'ReDriverSimple' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  ReDriverSimple.c
+d:\src\vs17\hctf_re\redriversimple\redriversimple.c(63): warning C4100: “RegistryPath”: 未引用的形参
+d:\src\vs17\hctf_re\redriversimple\redriversimple.c(168): warning C4242: “=”: 从“ULONG_PTR”转换到“ULONG”，可能丢失数据
+d:\src\vs17\hctf_re\redriversimple\redriversimple.c(171): warning C4018: “<”: 有符号/无符号不匹配
+d:\src\vs17\hctf_re\redriversimple\redriversimple.c(156): warning C4100: “Context”: 未引用的形参
+d:\src\vs17\hctf_re\redriversimple\redriversimple.c(156): warning C4100: “DeviceObject”: 未引用的形参
+  ReDriverSimple.vcxproj -> D:\src\vs17\hctf_re\x64\Release\ReDriverSimple.sys
+  Done Adding Additional Store
+  Successfully signed: D:\src\vs17\hctf_re\x64\Release\ReDriverSimple.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
